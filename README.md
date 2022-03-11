@@ -1,1 +1,1 @@
-# movies-app
+# moviePreviews-app
